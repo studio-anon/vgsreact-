@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">vgsreact</string>
+    <string name="isVGSSandBoxEnv">false</string>
+    <string name="vgsUrl">https://tntnxygs5ut.LIVE.verygoodproxy.com/</string>
 </resources>
